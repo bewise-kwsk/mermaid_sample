@@ -7,7 +7,7 @@ mermaidはGitHubで使用できるだけでなく、VisualStudio Codeなどの�
 mermaidで記述した図面のサンプルをいくつか示します。
 
 なお、以下の図面についてまとめたものが別ページにあります。
-- クラス図について: [ClassDiagram.md](ClassDialog.md)
+- クラス図について: [ClassDiagram.md](ClassDiagram.md)
 
 ## フローチャート
 フローチャートを書いてみます。
