@@ -69,10 +69,10 @@ FrontController ..> NewTransactionAction
 FrontController ..> EditTransactionAction
 <<interface>> Action
 Action: +execute() String
-Action --|> TransactionListAction
-Action --|> SummaryAction
-Action --|> NewTransactionAction
-Action --|> EditTransactionAction
+Action <|-- TransactionListAction
+Action <|-- SummaryAction
+Action <|-- NewTransactionAction
+Action <|-- EditTransactionAction
 TransactionListAction ..> TransactionListLogic
 TransactionListAction ..> TransactionListView
 SummaryAction ..> SummaryLogic
