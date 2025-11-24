@@ -8,6 +8,7 @@ mermaidで記述した図面のサンプルをいくつか示します。
 
 なお、以下の図面についてまとめたものが別ページにあります。
 - クラス図について: [ClassDiagram.md](ClassDiagram.md)
+- シーケンス図について： [SequenceDiagram.md](SequenceDiagram.md)
 
 ## フローチャート
 フローチャートを書いてみます。
